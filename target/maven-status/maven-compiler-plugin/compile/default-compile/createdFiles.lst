@@ -1,0 +1,8 @@
+com\cob\Application.class
+com\cob\entity\ContactEntity.class
+com\cob\binding\ContactForm.class
+com\cob\interfaces\ContactService.class
+com\cob\rest\ContactController.class
+com\cob\configuration\SecurityConfiguration.class
+com\cob\service\ContactServiceImpl.class
+com\cob\repository\ContactRepository.class
